@@ -1,6 +1,6 @@
 # Echelon
 
-An online version of (Star Realms)[https://www.starrealms.com]. The goal is a fully functioning version of the game where anyone can play around the world in real time, in matches of 4-6 players. The project is an ASP.NET Core web app with a lot of frontend JavaScript to manage the game itself, using SignalR to communicate with the server and other clients in real time. I don't currently have any screenshots of the game interface itself, as it is still very much a work in progress.
+An online version of [Star Realms](https://www.starrealms.com). The goal is a fully functioning version of the game where anyone can play around the world in real time, in matches of 4-6 players. The project is an ASP.NET Core web app with a lot of frontend JavaScript to manage the game itself, using SignalR to communicate with the server and other clients in real time. I don't currently have any screenshots of the game interface itself, as it is still very much a work in progress.
 
 ![](Echelon1.png)
 
