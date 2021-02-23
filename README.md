@@ -1,3 +1,11 @@
+# Rhombiz
+
+My Software Engineering 2 team embarked on a class project to create a mobile business management system for small business owners. The Android app, written in C# on the Xamarin platform, features an inventory manager, employee management system, inventory manager, employee scheduling system, and a client appointment scheduling system. The app connects to an Oracle database using an ASP.NET Core web backend. More screenshots will be posted soon.
+
+![](Rhombiz1.png)
+
+![](Rhombiz2.png)
+
 # Echelon
 
 An online version of [Star Realms](https://www.starrealms.com). The goal is a fully functioning version of the game where anyone can play around the world in real time, in matches of 4-6 players. The project is an ASP.NET Core web app with a lot of frontend JavaScript to manage the game itself, using SignalR to communicate with the server and other clients in real time. I don't currently have any screenshots of the game interface itself, as it is still very much a work in progress.
